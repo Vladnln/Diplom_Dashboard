@@ -37,7 +37,7 @@
       <div class="brand">
         <div class="brand-mark">D</div>
         <div>
-          <p class="brand-title">Диплом Space</p>
+          <p class="brand-title">Dashboard GMU</p>
           <p class="brand-subtitle">Панель кафедры</p>
         </div>
       </div>
